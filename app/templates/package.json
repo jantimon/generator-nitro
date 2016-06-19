@@ -39,6 +39,7 @@
     "gulp-concat": "~2.6.0",
     "gulp-cssnano": "~2.1.2",<% if (options.clientTpl) { %>
     "gulp-declare": "~0.3.0",
+    "handlebars-faker": "~0.0.1",
     "gulp-handlebars": "~4.0.0",<% } %>
     "gulp-header": "~1.8.2",
     "gulp-imagemin": "~2.4.0",
